@@ -1,3 +1,8 @@
+'''
+The setup.py is a Python script typically included with Python-written libraries or apps.
+Its objective is to ensure that the program is installed correctly. With the aid of pip, we can use the setup.py to install any module without having the call setup.py directly.
+command used: pip install -r requirements.txt(added HYPHEN_E_DOT in requirements.txt to connect to `setup.py`)
+'''
 from setuptools import find_packages, setup
 from typing import List
 
