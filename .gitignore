@@ -141,6 +141,8 @@ celerybeat.pid
 env/
 venv/
 pihuenv/
+pihuenv_ml/
+.python-version
 ENV/
 env.bak/
 venv.bak/
